@@ -1,0 +1,5 @@
+tqdm
+pyfiglet
+requests
+platform
+colorama
