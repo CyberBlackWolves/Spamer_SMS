@@ -38,19 +38,12 @@ print (Fore.CYAN+"")
 print("""
 
   .;'                     `;,
-
  .;'  ,;'    ,,,,,     `;,  `;,   SMS BOMBER BY Team Black Wolves
-
 .;'  ,;'  ,;' ,,, `;,  `;,  `;,   Instagram We : l_alfa_hacker_l
-
 ::   ::   :   (o)   :   ::   ::   telegram : https://t.me/Wolves_Cyber_army
-
 ':.  ':.  ':. /_\ ,:'  ,:'  ,:'   SMS BOMBER v1.0
-
  ':.  ':.    /___\    ,:'  ,:'    im not exist ...
-
   ':.       /_____\      ,:'
-
            [IIIIIII]
 
 """)
@@ -58,28 +51,14 @@ print("""
 print("\n\n\a")
 #starting sms attacking...
 print("")
-number = input(Fore.BLUE+' Enter Number Target :~> +98  : ')
-print(Fore.CYAN+"\n")
-print(noqteh)
-for i in range(3):
-        print(""),time.sleep(0.5)
-print(Fore.GREEN+" [+] Loading ... ")
-sleep(0.5)
-print(" [+] Starting SMS BoMbEr ")
-sleep(0.5)
-print(" [+] Doing ...")
-sleep(0.5)
-print("")
-sleep(0.5)
-print(noqteh)
+PROMT = Fore.RED+'/root'+Fore.BLUE+"@Kali"+Fore.RED+"~# "
+number = input(PROMT+Fore.CYAN+'[Enter Number Target]'+Fore.GREEN+'98 ')
 print("")
 for i in range(3):
-        for char in tqdm(range(100),colour = "CYAN"):
-                time.sleep(4/400)
+        for char in tqdm(range(100),colour = "CYAN",desc=" WORKING "):
+                time.sleep(4/450)
 print(Fore.GREEN+"")
-print(noqteh)
-for i in range(2):
-     print(""),time.sleep(1)
+print("\n\n"),time.sleep(1)
 # We Don't Forget , We Don't Forgive , We CyBeR ArMy ZeUs
 snapj = {"phone":number}
 tapsi1 = {"credential":{"phoneNumber":number,"role":"PASSENGER"}}
