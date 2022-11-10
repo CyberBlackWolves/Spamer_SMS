@@ -40,7 +40,7 @@ print("""
   .;'                     `;,
  .;'  ,;'    ,,,,,     `;,  `;,   SMS BOMBER BY Team Black Wolves
 .;'  ,;'  ,;' ,,, `;,  `;,  `;,   Instagram We : l_alfa_hacker_l
-::   ::   :   (o)   :   ::   ::   telegram : https://t.me/Wolves_Cyber_army
+::   ::   :   (o)   :   ::   ::   telegram : https://t.me/BlackWolves_Cyber
 ':.  ':.  ':. /_\ ,:'  ,:'  ,:'   SMS BOMBER v1.0
  ':.  ':.    /___\    ,:'  ,:'    im not exist ...
   ':.       /_____\      ,:'
