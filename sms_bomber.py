@@ -52,7 +52,7 @@ print("\n\n\a")
 #starting sms attacking...
 print("")
 PROMT = Fore.RED+'/root'+Fore.BLUE+"@Kali"+Fore.RED+"~# "
-number = input(PROMT+Fore.CYAN+'[Enter Number Target]'+Fore.GREEN+'98 ')
+number = input(PROMT+Fore.CYAN+'[Enter Number Target]>> '+Fore.GREEN+'098 ')
 print("")
 for i in range(3):
         for char in tqdm(range(100),colour = "CYAN",desc=" WORKING "):
