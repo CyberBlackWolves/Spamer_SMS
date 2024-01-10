@@ -1,5 +1,5 @@
 Spammer SMS by BLACK WOLVES Team 
-Telegram : https://t.me/BlackWolves_Cyber
+Telegram : https://t.me/BlackWolves_Team
 
 INSTALL IN LINUX  :
 
